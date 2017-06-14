@@ -22,6 +22,9 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 
+demo2/
+demo2.m
+
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
