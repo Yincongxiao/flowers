@@ -4,3 +4,4 @@
 "test for merge no ff"
 
 "job 2, has not complete"
+"job r, has not complete"
